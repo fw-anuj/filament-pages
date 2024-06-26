@@ -1,6 +1,6 @@
 {
-    "name": "beier/filament-pages",
-    "description": "Highly opinionated Pages for filament",
+    "name": "featherwebs/filament-pages",
+    "description": "Highly opinionated Pages for filament. Forked from beier/filament-pages",
     "keywords": [
         "filament",
         "laravel",
@@ -14,8 +14,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Pascale Beier",
-            "email": "mail@pascalebeier.de",
+            "name": "Srawan Shrestha",
+            "email": "srawan@featherwebs.com",
             "role": "Developer"
         }
     ],
